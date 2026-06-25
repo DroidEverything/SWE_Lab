@@ -1,1 +1,3 @@
 Just a new file created with "touch" to test
+
+Added another line in the file
